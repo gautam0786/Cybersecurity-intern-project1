@@ -48,7 +48,8 @@ python app.py
 cpp
 
 http://127.0.0.1:5000
-3. Enter the URL of the target web application (make sure you have permission to scan it) and click Start Scan.
+
+3. Enter the URL of the target web application (make sure you have permission to scan it and click Start Scan).
 
 4.View the scan results displayed on the page showing detected vulnerabilities with evidence and severity.
 
