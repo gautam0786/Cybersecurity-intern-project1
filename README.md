@@ -61,3 +61,6 @@ This scanner is a basic prototype intended for learning and demonstration purpos
 Conclusion:-
 
 This project demonstrates an automated approach to detecting common web vulnerabilities using Python tools and a simple web interface. It serves as a foundation for learning web application security testing and scanner development.
+
+
+NOTE:- This web application vulnerability scanner was tested by me on my own localhost , if you have to access it then kindly give me a small message on my whatsapp(only allowed to admins).
